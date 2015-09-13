@@ -1,0 +1,7 @@
+body {
+    /*background: url("img/django.jpg") no-repeat;*/
+}
+
+li a, li a:visited {
+    color: forestgreen;
+}
